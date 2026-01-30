@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hallas Lotfi</h1>
 <h3 align="center">A passionate Software developer from Algeria</h3>
 
-- 🔭 I’m currently working on [Tabibi](https://github.com/lotfi-1/Tabibi.git)
+- 🔭 I’m currently working on Developatic — [https://developatic.com/]
 
 - 👨‍💻 All of my projects are available at [https://lotfihallas.vercel.app/](https://lotfihallas.vercel.app/)
 
